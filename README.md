@@ -11,6 +11,8 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
   * easily make crontab strings
 * [Lennart Poettering's blog](http://0pointer.net)
   * lots of in-depth posts about `systemd`
+* one-line self-signed key/cert pair
+  * `openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 -keyout hostname.key -out hostname.crt`
   
 # Cloud/Microservices
 * [Cloud Native Computing Foundation](https://www.opencontainers.org/)

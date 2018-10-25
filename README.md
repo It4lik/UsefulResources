@@ -9,6 +9,8 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
 # GNU/Linux
 * [crontab guru](https://crontab.guru/)
   * easily make crontab strings
+* [Lennart Poettering's blog](http://0pointer.net)
+  * lots of in-depth posts about `systemd`
   
 # Cloud/Microservices
 * [Cloud Native Computing Foundation](https://www.opencontainers.org/)

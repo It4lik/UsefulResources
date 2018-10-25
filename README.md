@@ -13,3 +13,7 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
 # Cloud/Microservices
 * [Cloud Native Computing Foundation](https://www.opencontainers.org/)
 * [Open Container Initiative](https://www.cncf.io/)
+
+# Others
+* [regex101](https://regex101.com/https://regex101.com/)
+  * powerful regex tester

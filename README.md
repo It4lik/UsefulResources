@@ -13,7 +13,8 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
   * lots of in-depth posts about `systemd`
 * one-line self-signed key/cert pair
   * `openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 -keyout hostname.key -out hostname.crt`
-  
+* [`bash` tests behaviour ](https://ss64.com/bash/test.html)
+ 
 # Cloud/Microservices
 * [Cloud Native Computing Foundation](https://www.opencontainers.org/)
 * [Open Container Initiative](https://www.cncf.io/)

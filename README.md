@@ -16,8 +16,14 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
 * [`bash` tests behaviour ](https://ss64.com/bash/test.html)
  
 # Cloud/Microservices
-* [Cloud Native Computing Foundation](https://www.opencontainers.org/)
-* [Open Container Initiative](https://www.cncf.io/)
+
+
+# Linux Foundation Projects to follow
+
+* Cloud-Native Apps : CNCF [Cloud Native Computing Foundation](https://www.opencontainers.org/)
+* Containers : OCI [Open Container Initiative](https://www.cncf.io/)
+* APIs : [OpenAPI](https://www.openapis.org/)
+* Infra Security : [CoreInfrastructure](https://www.coreinfrastructure.org/)
 
 # Others
 * [regex101](https://regex101.com/https://regex101.com/)

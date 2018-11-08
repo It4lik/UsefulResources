@@ -27,8 +27,8 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
 
 # Others
 * [regex101](https://regex101.com/https://regex101.com/)
-  * powerful regex tester
+  * powerful regex tester/analyzer
 * [nginxconfig.io](https://nginxconfig.io/)
-  * nice NGINX config generator (up-to-date 8/11/2018)
+  * nice NGINX config generator (security up-to-date as of 8/11/2018)
 * [gitignore.io](https://www.gitignore.io/)
-  * useful .gitignore file generator
+  * useful .gitignore file generator for lots of common environments

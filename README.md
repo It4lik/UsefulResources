@@ -28,3 +28,5 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
 # Others
 * [regex101](https://regex101.com/https://regex101.com/)
   * powerful regex tester
+* [nginxconfig.io](https://nginxconfig.io/)
+  * nice NGINX config generator (up-to-date 8/11/2018)

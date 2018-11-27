@@ -11,8 +11,11 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
   * easily make crontab strings
 * [Lennart Poettering's blog](http://0pointer.net)
   * lots of in-depth posts about `systemd`
-* one-line self-signed key/cert pair
-  * `openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 -keyout hostname.key -out hostname.crt`
+* certs handling
+  * one-line self-signed key/cert pair
+    * `openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 -keyout hostname.key -out hostname.crt`
+  * properly generate CA key pair + CSR and key pair for clients 
+    * [here](https://gist.github.com/fntlnz/cf14feb5a46b2eda428e000157447309)
 * [`bash` tests behaviour ](https://ss64.com/bash/test.html)
  
 # Cloud/Microservices

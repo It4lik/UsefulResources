@@ -9,7 +9,7 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
 # Crypto
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
   * comprehensive/in-depth guide to establish a TLS connection
-  * from handshake to message sent
+  * from nothing (initial handshake) to message sent
 
 # GNU/Linux
 * [crontab guru](https://crontab.guru/)

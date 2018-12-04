@@ -22,6 +22,8 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
   * properly generate CA key pair + CSR and key pair for clients 
     * [here](https://gist.github.com/fntlnz/cf14feb5a46b2eda428e000157447309)
 * [`bash` tests behaviour ](https://ss64.com/bash/test.html)
+* [bash colors guide :D](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+  * HOWTO to add colors/formatting to `bash` outputs
  
 # Cloud/Microservices
 

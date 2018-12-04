@@ -1,6 +1,11 @@
 # UsefulResources
 Stores and classify shit loads of useful links (documentations, blog articles, etc)
 
+# Network
+* [sipcalc](https://github.com/sii/sipcalc)
+  * easily calculate subnetting informations
+  * present in most of Linux distros (`apt`/`yum` install)
+
 # Crypto
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
   * comprehensive/in-depth guide to establish a TLS connection

@@ -35,3 +35,8 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
   * nice NGINX config generator (security up-to-date as of 8/11/2018)
 * [gitignore.io](https://www.gitignore.io/)
   * useful .gitignore file generator for lots of common environments
+  
+# Non-technical & Random things
+* [unsplash](https://unsplash.com/)
+  * shit loads of free & cool pics
+  

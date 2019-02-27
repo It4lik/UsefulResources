@@ -6,7 +6,7 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
   * easily calculate subnetting informations
   * present in most of Linux distros (`apt`/`yum` install)
 * [asciiflow](http://asciiflow.com/)
-  * f=craft network topology in ascii art 
+  * fking craft network topology in ascii art 
 
 
 # Crypto

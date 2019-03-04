@@ -27,6 +27,8 @@ Stores and classify shit loads of useful links (documentations, blog articles, e
 * [`bash` tests behaviour ](https://ss64.com/bash/test.html)
 * [bash colors guide :D](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
   * HOWTO to add colors/formatting to `bash` outputs
+* [`pspy`](https://github.com/DominicBreuker/pspy)
+  * gather informations about processes as an unprivileged user
  
 # Cloud/Microservices
 
